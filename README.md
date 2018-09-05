@@ -7,9 +7,12 @@ Mô tả:
 
 Hướng dẫn:
 
-Bước 1: Tạo file data.txt có bán kính đường tròn là 10
-Bước 2: Tạo  file cb.js 
-Bước 3: import thư viện readFile của nodejs để  đọc file
-Bước 4: Viết chương trình
+  Bước 1: Tạo file data.txt có bán kính đường tròn là 10
+
+  Bước 2: Tạo  file cb.js 
+
+  Bước 3: import thư viện readFile của nodejs để  đọc file
+
+  Bước 4: Viết chương trình
   
 
