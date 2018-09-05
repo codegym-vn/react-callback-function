@@ -13,7 +13,9 @@ function readFile(path,callback){
 }
 
 
-
-readFile('./data.txt', (txt) =>{
-	console.log(txt);
+//callback function tính dien tich hinh tron với r được load từ data.txt
+readFile('./data.txt', (data) =>{
+	var r = Number(data);
+	var s = Math.PI*r*r;
+	return s;
 });
