@@ -7,7 +7,7 @@
 ## Nội dung bài học:
     - callback function là 1 function truyền như 1 tham số vào 1 function khác. 
   
-##  Mô tả:
+##  Thực hành:
 
     viết 1 đoạn code đọc dữ liệu từ 1 file text, tính diện tích hình tròn và in ra console.log
 
