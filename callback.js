@@ -18,5 +18,6 @@ function readFile(path,callback){
 readFile('./data.txt', (data) =>{
 	var r = Number(data); //parse string to number
 	var s = Math.PI*r*r; // công thức tính diện tích hình tròn
-	return s;
+	console.log('Diện tích hình tròn:',s);
 });
+
